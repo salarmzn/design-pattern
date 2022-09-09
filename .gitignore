@@ -1,2 +1,4 @@
 # Ignore .js files
 /**/*.js
+/**/*.map
+/**/dist
